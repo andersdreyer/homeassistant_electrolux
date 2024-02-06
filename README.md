@@ -1,4 +1,4 @@
-# Home Assistant Electrolux Care Integration (Not Official - Community Integration)
+# Home Assistant Electrolux Care Community Integration
 
 ## ⚠️ PLEASE NOTE: 
 This is a fork of the original integration made by Mauro Midolo. The original integration was taken down due to fear of financial repercussions.
