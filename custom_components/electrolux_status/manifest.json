@@ -1,0 +1,19 @@
+{
+  "domain": "electrolux_status",
+  "name": "Electrolux Care Integration V2",
+  "codeowners": [
+    "@andersdreyer"
+  ],
+  "config_flow": true,
+  "dependencies": [],
+  "documentation": "https://github.com/andersdreyer/homeassistant_electrolux_status",
+  "homekit": {},
+  "iot_class": "cloud_polling",
+  "issue_tracker": "https://github.com/andersdreyer/homeassistant_electrolux_status/issues",
+  "requirements": [
+    "pyelectroluxocp"
+  ],
+  "ssdp": [],
+  "version": "1.3.0",
+  "zeroconf": []
+}
