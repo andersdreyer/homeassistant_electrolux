@@ -1,7 +1,7 @@
-# Home Assistant Electrolux Care Integration (Not Official)
+# Home Assistant Electrolux Care Integration (Not Official - Community Integration)
 
-[![Validate with HACS](https://github.com/andersdreyer/homeassistant_electrolux_status/.github/workflows/hacs.yml/badge.svg)](https://github.com/andersdreyer/homeassistant_electrolux_status/.github/workflows/hacs.yml)
-[![Validate with hassfest](https://github.com/andersdreyer/homeassistant_electrolux_status/.github/workflows/hassfest.yml/badge.svg)](https://github.com/andersdreyer/homeassistant_electrolux_status/.github/workflows/hassfest.yml)
+[![Validate with HACS](https://github.com/andersdreyer/homeassistant_electrolux/.github/workflows/hacs.yml/badge.svg)](https://github.com/andersdreyer/homeassistant_electrolux/.github/workflows/hacs.yml)
+[![Validate with hassfest](https://github.com/andersdreyer/homeassistant_electrolux/.github/workflows/hassfest.yml/badge.svg)](https://github.com/andersdreyer/homeassistant_electrolux/.github/workflows/hassfest.yml)
 
 
 ## ⚠️ PLEASE NOTE: 

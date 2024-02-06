@@ -1,15 +1,15 @@
 {
   "domain": "electrolux_status",
-  "name": "Electrolux Care Integration V2",
+  "name": "Electrolux Care Community Integration",
   "codeowners": [
     "@andersdreyer"
   ],
   "config_flow": true,
   "dependencies": [],
-  "documentation": "https://github.com/andersdreyer/homeassistant_electrolux_status",
+  "documentation": "https://github.com/andersdreyer/homeassistant_electrolux",
   "homekit": {},
   "iot_class": "cloud_polling",
-  "issue_tracker": "https://github.com/andersdreyer/homeassistant_electrolux_status/issues",
+  "issue_tracker": "https://github.com/andersdreyer/homeassistant_electrolux/issues",
   "requirements": [
     "pyelectroluxocp"
   ],

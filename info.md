@@ -1,7 +1,7 @@
-# Home Assistant Electrolux Care Integration (Not Official)
+# Home Assistant Electrolux Care Integration (Not Official - Community Integration)
 
-[![Validate with HACS](https://github.com/andersdreyer/homeassistant_electrolux_status/.github/workflows/hacs.yml/badge.svg)](https://github.com/andersdreyer/homeassistant_electrolux_status/.github/workflows/hacs.yml)
-[![Validate with hassfest](https://github.com/andersdreyer/homeassistant_electrolux_status/.github/workflows/hassfest.yml/badge.svg)](https://github.com/andersdreyer/homeassistant_electrolux_status/.github/workflows/hassfest.yml)
+[![Validate with HACS](https://github.com/andersdreyer/homeassistant_electrolux/.github/workflows/hacs.yml/badge.svg)](https://github.com/andersdreyer/homeassistant_electrolux/.github/workflows/hacs.yml)
+[![Validate with hassfest](https://github.com/andersdreyer/homeassistant_electrolux/.github/workflows/hassfest.yml/badge.svg)](https://github.com/andersdreyer/homeassistant_electrolux/.github/workflows/hassfest.yml)
 
 
 ## ⚠️ PLEASE NOTE: 
@@ -52,9 +52,9 @@ All devices need configured and Alias set (otherwise the home assistant integrat
 This Home Assistant integration was not made by Electrolux. It is not official, not developed, and not supported by Electrolux.
 
 [hacs]: https://hacs.xyz
-[releases]: https://github.com/andersdreyer/homeassistant_electrolux_status/releases
-[releases-shield]: https://img.shields.io/github/v/release/andersdreyer/homeassistant_electrolux_status?style=for-the-badge
-[license-shield]: https://img.shields.io/github/license/andersdreyer/homeassistant_electrolux_status.svg?style=for-the-badge
+[releases]: https://github.com/andersdreyer/homeassistant_electrolux/releases
+[releases-shield]: https://img.shields.io/github/v/release/andersdreyer/homeassistant_electrolux?style=for-the-badge
+[license-shield]: https://img.shields.io/github/license/andersdreyer/homeassistant_electrolux.svg?style=for-the-badge
 [hacsbadge]: https://img.shields.io/badge/HACS-Custom-orange.svg?style=for-the-badge
 [maintenance-shield]:   badge/maintainer-%40andersdreyer-blue.svg?style=for-the-badge
 [user_profile]: https://github.com/andersdreyer
